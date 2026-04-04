@@ -1,0 +1,1 @@
+This project is a machine learning-based web application that predicts the resale price of used cars based on various features such as car name, company, manufacturing year, fuel type, and kilometers driven.
